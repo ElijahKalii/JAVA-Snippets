@@ -23,7 +23,6 @@ import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.control.cell.TextFieldTableCell;
 import javafx.util.StringConverter;
 
-
 /**
  * Demonstrates the use of an editable table.  The program lets the 
  * user enter (x,y) coordinates of some points, and it draws a simple
