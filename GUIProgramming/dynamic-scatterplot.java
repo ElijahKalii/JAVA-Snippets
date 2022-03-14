@@ -169,7 +169,6 @@ public class ScatterPlotTableDemo extends Application {
                 
     } // end start()
 
-
     /**
      * An object of type Point represents one row in the table, 
      * which displays the x and y coordinates of a point in its
